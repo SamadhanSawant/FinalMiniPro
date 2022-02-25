@@ -1,0 +1,33 @@
+/* .form {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+} */
+
+.form {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main{
+    width: 400px;
+    margin: 10px 0px 0px 450px;
+    background-size: 280%;
+    background-color: rgba(0,0,0,0.2);
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+}
+h1{
+    text-align:center;
+    /* padding: 10px; */
+}
+#form{
+    margin: 40px;
+}
+input{
+    width : 300px;
+}
+
